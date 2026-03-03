@@ -21,7 +21,7 @@
     </div>
     <div class="container">
         <div class="hero-content">
-            <h1>Conquer the Roof of Shemdoe</h1>
+            <h1>Conquer the Roof of Africa</h1>
             <p>Experience the ultimate adventure with our expert-guided Kilimanjaro climbs. Join us for a life-changing journey to Africa's highest peak with the most experienced local guides.</p>
             <div class="hero-btns">
                 <a href="kilimanjaro-route.php" class="btn btn-primary">Explore Routes</a>
