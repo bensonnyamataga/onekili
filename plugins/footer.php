@@ -51,7 +51,7 @@
             
             
             <div class="footer-bottom">
-                <p>&copy; 2023 One Kilimanjaro  . All Rights Reserved. | <a href="#">Privacy Policy</a> | <a href="terms-and-condition.php">Terms of Service</a></p>
+                <p>&copy; 2026 One Kilimanjaro  . All Rights Reserved. | <a href="#">Privacy Policy</a> | <a href="terms-and-condition.php">Terms of Service</a></p>
             </div>
         </div>
     </footer>
