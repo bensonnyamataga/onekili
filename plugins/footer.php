@@ -42,7 +42,7 @@
                 <div class="footer-col">
                     <h3>Contact Info</h3>
                     <p><i class="fas fa-map-marker-alt"></i> Kilimanjaro Street, Moshi, Tanzania</p>
-                    <p><i class="fas fa-phone"></i> +255 123 456 789</p>
+                    <p><i class="fas fa-phone"></i> +255 764 090 595</p>
                     <p><i class="fas fa-envelope"></i> info@onekilimanjaro.com</p>
                     <p><i class="fas fa-clock"></i> Mon-Fri: 8AM - 5PM</p>
                 </div>
