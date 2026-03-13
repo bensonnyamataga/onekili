@@ -1044,7 +1044,7 @@
             <p>Conquer Africa's highest peak with our expertly guided Kilimanjaro routes. High success rates, safety-focused expeditions, and unforgettable experiences.</p>
             <div class="packages-hero-btns">
                 <a href="#packages" class="btn btn-primary">View Trekking Packages</a>
-                <a href="#booking" class="btn btn-primary">Book Your Adventure</a>
+                <a href="#booking" class="btn btn-primary" onclick="openBookingPopup()">Book Your Adventure</a>
             </div>
         </div>
     </section>
