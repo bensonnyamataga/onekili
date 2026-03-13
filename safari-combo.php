@@ -814,7 +814,7 @@
             <p>Experience the ultimate Tanzania adventure with our premium Kilimanjaro climbs and Serengeti safari combinations</p>
             <div class="safari-hero-btns">
                 <a href="#safari-combos" class="btn btn-primary">Explore Packages</a>
-                <a href="#booking" class="btn btn-primary">Book Now</a>
+                <a href="#booking" class="btn btn-primary" onclick="openBookingPopup()">send enquiry</a>
             </div>
         </div>
     </section>

@@ -1048,7 +1048,7 @@ img {
             <h1>Chemka Hot Springs Day Trip</h1>
             <p>Discover the hidden oasis of crystal-clear turquoise waters in the heart of Tanzania</p>
             <div class="daytrip-hero-btns">
-                <button class="btn btn-primary" onclick="openChemkaBookingPopup()">Book This Trip</button>
+                <button class="btn btn-primary" onclick="openBookingPopup()">Book This Trip</button>
                 <a href="#itinerary" class="btn btn-primary">View Itinerary</a>
             </div>
         </div>

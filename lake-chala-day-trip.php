@@ -1046,7 +1046,7 @@
             <h1>Lake Chala Day Trip</h1>
             <p>Discover the breathtaking beauty of Lake Chala - a stunning crater lake on the Tanzania-Kenya border</p>
             <div class="daytrip-hero-btns">
-                <button class="btn btn-primary" onclick="openChalaBookingPopup()">Book This Trip</button>
+                <button class="btn btn-primary" onclick="openBookingPopup()">Book This Trip</button>
                 <a href="#itinerary" class="btn btn-primary">View Itinerary</a>
             </div>
         </div>

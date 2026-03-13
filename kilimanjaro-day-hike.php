@@ -1047,7 +1047,7 @@
             <h1>Kilimanjaro Day Hike to Mandara Hut</h1>
             <p>Experience the magic of Mount Kilimanjaro with a day hike to the first hut on the famous Marangu Route</p>
             <div class="daytrip-hero-btns">
-                <button class="btn btn-primary" onclick="openKilimanjaroBookingPopup()">Book This Hike</button>
+                <button class="btn btn-primary" onclick="openBookingPopup()">Book This Hike</button>
                 <a href="#itinerary" class="btn btn-primary">View Itinerary</a>
             </div>
         </div>

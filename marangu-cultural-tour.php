@@ -1047,7 +1047,7 @@
             <h1>Marangu Cultural Tour</h1>
             <p>Immerse yourself in authentic Chagga culture and traditions in the historic Marangu Village</p>
             <div class="daytrip-hero-btns">
-                <button class="btn btn-primary" onclick="openMaranguBookingPopup()">Book This Tour</button>
+                <button class="btn btn-primary" onclick="openBookingPopup()">Book This Tour</button>
                 <a href="#itinerary" class="btn btn-primary">View Itinerary</a>
             </div>
         </div>

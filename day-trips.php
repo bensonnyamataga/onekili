@@ -1182,7 +1182,7 @@
             <p>Discover the beauty and culture of Kilimanjaro region with our curated day trips from Moshi</p>
             <div class="daytrip-hero-btns">
                 <a href="#daytrips" class="btn btn-primary">Explore Day Trips</a>
-                <a href="#booking" class="btn btn-primary">book now</a>
+                <a href="#booking" class="btn btn-primary" onclick="openBookingPopup()">send enquiry</a>
             </div>
         </div>
     </section>
