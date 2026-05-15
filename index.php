@@ -1090,13 +1090,13 @@ document.addEventListener('DOMContentLoaded', function() {
     </div>
 </section>
 
-<!-- TripAdvisor Reviews Section -->
+<<!-- TripAdvisor Reviews Section -->
 <section class="tripadvisor-reviews">
     <div class="container">
         <div class="section-title">
             <span class="subtitle">Client Experiences</span>
             <h2>What Our Climbers Say</h2>
-            <p>Read authentic reviews from adventurers who conquered Kilimanjaro with us</p>
+            <p>Read reviews from travellers who reached Kilimanjaro with One Kilimanjaro</p>
         </div>
         
         <div class="reviews-grid">
@@ -1104,10 +1104,10 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="review-card">
                 <div class="review-header">
                     <div class="client-avatar">
-                        <img src="img/client-1.jpg" alt="Island H">
+                        <img src="img/client-1.jpg" alt="Clara M">
                     </div>
                     <div class="client-info">
-                        <h4>Island H</h4>
+                        <h4>Clara M</h4>
                         <span class="review-date">Oct 2025</span>
                     </div>
                     <div class="tripadvisor-brand">
@@ -1116,7 +1116,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 </div>
                 
                 <div class="review-title">
-                    <h3>Amazing Altezza</h3>
+                    <h3>Outstanding Service</h3>
                 </div>
                 
                 <div class="star-rating">
@@ -1129,10 +1129,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 <div class="review-content">
                     <div class="review-excerpt">
-                        <p>Wow wow wow! One Kilimanjaro  got a group of 7 of us up to the summit and back safely. They set up camp and portable toilets for us, the food was delicious, the crew was incredibly supportive throughout the entire journey...</p>
+                        <p>Outstanding service from One Kilimanjaro. Our group of seven reached the summit safely and returned with smiles. Camps were ready before we arrived, meals were fresh, and the whole crew kept everyone confident during difficult moments on the mountain each day...</p>
                     </div>
                     <div class="review-full">
-                        <p>Wow wow wow! One Kilimanjaro  got a group of 7 of us up to the summit and back safely. They set up camp and portable toilets for us, the food was delicious, the crew was incredibly supportive throughout the entire journey. Our guides were knowledgeable about every aspect of the mountain and kept us motivated during the tough summit push. The equipment provided was top-notch and the attention to safety was exceptional. I would recommend One Kilimanjaro  to anyone considering climbing Kilimanjaro - they truly deliver an unforgettable experience!</p>
+                        <p>Outstanding service from One Kilimanjaro. Our group of seven reached the summit safely and returned with smiles. Camps were ready before we arrived, meals were fresh, and the whole crew kept everyone confident during difficult moments on the mountain each day. The guides explained the route clearly, monitored our health carefully, and encouraged us during the final ascent. Every detail felt organized, from transport to equipment support. I highly recommend One Kilimanjaro for anyone wanting a safe, professional, and memorable Kilimanjaro experience with a truly caring local team.</p>
                     </div>
                 </div>
                 
@@ -1148,10 +1148,10 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="review-card">
                 <div class="review-header">
                     <div class="client-avatar">
-                        <img src="img/client-2.jpg" alt="S Y">
+                        <img src="img/client-2.jpg" alt="Thomas R">
                     </div>
                     <div class="client-info">
-                        <h4>S Y</h4>
+                        <h4>Thomas R</h4>
                         <span class="review-date">Oct 2025</span>
                     </div>
                     <div class="tripadvisor-brand">
@@ -1160,7 +1160,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 </div>
                 
                 <div class="review-title">
-                    <h3>Five star experience!</h3>
+                    <h3>Five star service</h3>
                 </div>
                 
                 <div class="star-rating">
@@ -1173,10 +1173,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 <div class="review-content">
                     <div class="review-excerpt">
-                        <p>The team led by Stanford (head guide), Agrey, Joseph, Michael, Lihiru and Honest were the reason for our amazing experience. Their professionalism and dedication made our Kilimanjaro climb unforgettable...</p>
+                        <p>Our mountain team, led by Patrick, Moses, Daniel, Baraka, and Emmanuel, delivered a perfectly organized trek. Their calm leadership, clear communication, and genuine care made every stage feel manageable...</p>
                     </div>
                     <div class="review-full">
-                        <p>The team led by Stanford (head guide), Agrey, Joseph, Michael, Lihiru and Honest were the reason for our amazing experience. Their professionalism and dedication made our Kilimanjaro climb unforgettable. Each guide brought unique expertise and personality to the journey, creating a perfect balance of safety, education, and entertainment. The porters worked tirelessly to ensure our comfort, and the chef prepared meals that exceeded all expectations at high altitude. The summit night was challenging, but with their constant encouragement and expert pacing, all members of our group reached Uhuru Peak successfully. This was truly a five-star experience from start to finish!</p>
+                        <p>Our mountain team, led by Patrick, Moses, Daniel, Baraka, and Emmanuel, delivered a perfectly organized trek. Their calm leadership, clear communication, and genuine care made every stage feel manageable. The guides maintained an excellent pace, checked our condition daily, and explained what to expect before each section. The porters were hardworking, respectful, and always cheerful, while the cook prepared warm meals that gave us energy. Summit night was demanding, but the team stayed patient and positive until we reached Uhuru Peak. One Kilimanjaro provided a five-star experience from preparation to celebration, and we felt supported from the first step onward.</p>
                     </div>
                 </div>
                 
@@ -1192,10 +1192,10 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="review-card">
                 <div class="review-header">
                     <div class="client-avatar">
-                        <img src="img/client-3.jpg" alt="Michael T">
+                        <img src="img/client-3.jpg" alt="Daniel K">
                     </div>
                     <div class="client-info">
-                        <h4>Michael T</h4>
+                        <h4>Daniel K</h4>
                         <span class="review-date">Sep 2025</span>
                     </div>
                     <div class="tripadvisor-brand">
@@ -1204,7 +1204,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 </div>
                 
                 <div class="review-title">
-                    <h3>Life-changing adventure!</h3>
+                    <h3>Life-changing summit</h3>
                 </div>
                 
                 <div class="star-rating">
@@ -1217,10 +1217,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 <div class="review-content">
                     <div class="review-excerpt">
-                        <p>From the initial booking to standing on the summit, every detail was perfectly handled. The guides were knowledgeable about the mountain and kept us motivated when the climb got tough. The porters were true heroes...</p>
+                        <p>Everything was handled with impressive care, from the first email to the final summit photo. The guides understood the mountain deeply and kept our group motivated when the trail became challenging. The excellent porters were...</p>
                     </div>
                     <div class="review-full">
-                        <p>From the initial booking to standing on the summit, every detail was perfectly handled. The guides were knowledgeable about the mountain and kept us motivated when the climb got tough. The porters were true heroes, carrying heavy loads with smiles on their faces and always ready to help. What impressed me most was the daily health checks and the careful attention to acclimatization. The team knew exactly when to push and when to rest, which resulted in our entire group summiting without any altitude issues. The celebration at the top with champagne and certificates was a beautiful touch. This wasn't just a climb; it was a life-changing adventure that I'll cherish forever!</p>
+                        <p>Everything was handled with impressive care, from the first email to the final summit photo. The guides understood the mountain deeply and kept our group motivated when the trail became challenging. The excellent porters were always ahead of us, preparing tents, water, and warm food with outstanding dedication. I appreciated the daily health checks, the slow acclimatization plan, and the honest advice from our lead guide. Summit night was emotional, cold, and tough, but One Kilimanjaro never allowed us to feel alone. Reaching the top safely made this one of the most meaningful journeys of my life. Their professionalism turned a difficult climb into a beautiful achievement for our entire travel team.</p>
                     </div>
                 </div>
                 
@@ -1236,10 +1236,10 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="review-card">
                 <div class="review-header">
                     <div class="client-avatar">
-                        <img src="img/client-4.jpg" alt="Sarah J">
+                        <img src="img/client-4.jpg" alt="Amelia P">
                     </div>
                     <div class="client-info">
-                        <h4>Sarah J</h4>
+                        <h4>Amelia P</h4>
                         <span class="review-date">Aug 2025</span>
                     </div>
                     <div class="tripadvisor-brand">
@@ -1248,7 +1248,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 </div>
                 
                 <div class="review-title">
-                    <h3>Exceeded all expectations</h3>
+                    <h3>Exceeded every expectation</h3>
                 </div>
                 
                 <div class="star-rating">
@@ -1261,10 +1261,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 <div class="review-content">
                     <div class="review-excerpt">
-                        <p>I was nervous about climbing Kilimanjaro, but the team made me feel safe and supported throughout. The equipment was top-quality, the food was amazing, and the guides were incredibly patient. Reaching the summit was...</p>
+                        <p>I joined the climb with some worries, but One Kilimanjaro made me feel protected and encouraged from day one. The tents were comfortable, the food was excellent, and the guides were patient every morning...</p>
                     </div>
                     <div class="review-full">
-                        <p>I was nervous about climbing Kilimanjaro, but the team made me feel safe and supported throughout. The equipment was top-quality, the food was amazing, and the guides were incredibly patient. Reaching the summit was an emotional moment that I'll never forget. As a solo female traveler, I particularly appreciated how the team made me feel included and cared for. The sleeping tents were spacious and comfortable, and having a private toilet tent was a luxury I didn't expect on a mountain climb! The guides shared fascinating stories about the mountain's history and ecology, which made each day's trek educational as well as challenging. One Kilimanjaro  exceeded all my expectations in every possible way.</p>
+                        <p>I joined the climb with some worries, but One Kilimanjaro made me feel protected and encouraged from day one. The tents were comfortable, the food was excellent, and the guides were patient every morning. As a solo traveller, I appreciated how the crew included me naturally and respected my pace. They explained each day's distance, reminded us to drink water, and created a positive atmosphere even during difficult sections. The summit was unforgettable, and I felt proud, safe, and grateful. One Kilimanjaro delivered a well-organized, personal, and professional mountain experience that exceeded my expectations completely. Their kindness made the journey enjoyable, and I would recommend them to anyone planning Tanzania confidently next year.</p>
                     </div>
                 </div>
                 
@@ -1280,10 +1280,10 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="review-card">
                 <div class="review-header">
                     <div class="client-avatar">
-                        <img src="img/client-5.jpg" alt="David L">
+                        <img src="img/client-5.jpg" alt="Julien L">
                     </div>
                     <div class="client-info">
-                        <h4>David L</h4>
+                        <h4>Julien L</h4>
                         <span class="review-date">Jul 2025</span>
                     </div>
                     <div class="tripadvisor-brand">
@@ -1292,7 +1292,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 </div>
                 
                 <div class="review-title">
-                    <h3>Professional and caring team</h3>
+                    <h3>Professional and caring crew</h3>
                 </div>
                 
                 <div class="star-rating">
@@ -1305,10 +1305,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 <div class="review-content">
                     <div class="review-excerpt">
-                        <p>The attention to detail was impressive. Our guides checked our oxygen levels daily, adjusted our pace perfectly, and shared fascinating stories about the mountain. The entire crew worked seamlessly together...</p>
+                        <p>The organization was excellent. Our guides checked oxygen levels daily, adjusted the pace carefully, and explained the route with confidence. The entire crew worked together professionally, making us feel safe...</p>
                     </div>
                     <div class="review-full">
-                        <p>The attention to detail was impressive. Our guides checked our oxygen levels daily, adjusted our pace perfectly, and shared fascinating stories about the mountain. The entire crew worked seamlessly together like a well-oiled machine. What stood out to me was their genuine care for each climber's wellbeing. When one member of our group struggled with altitude sickness, the guides immediately implemented their emergency protocols and provided exceptional care until she recovered. The communication throughout the climb was excellent - we always knew what to expect each day. The celebration dinner back at the hotel with the entire crew was a beautiful way to conclude this incredible journey. I can't recommend One Kilimanjaro  highly enough!</p>
+                        <p>The organization was excellent. Our guides checked oxygen levels daily, adjusted the pace carefully, and explained the route with confidence. The entire crew worked together professionally, making us feel safe. What impressed me most was the genuine concern for every climber's comfort and health. When one person needed extra rest, the guides responded calmly and adjusted the plan without pressure. Meals were warm, camps were clean, and communication was clear from start to finish. The farewell celebration in Moshi showed how much pride the team takes in their work. One Kilimanjaro is a reliable company with a truly caring mountain crew. I would book with them again for future adventures without any doubt.</p>
                     </div>
                 </div>
                 
@@ -1324,10 +1324,10 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="review-card">
                 <div class="review-header">
                     <div class="client-avatar">
-                        <img src="img/client-6.jpg" alt="Emma R">
+                        <img src="img/client-6.jpg" alt="Sophie R">
                     </div>
                     <div class="client-info">
-                        <h4>Emma R</h4>
+                        <h4>Sophie R</h4>
                         <span class="review-date">Jun 2025</span>
                     </div>
                     <div class="tripadvisor-brand">
@@ -1336,7 +1336,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 </div>
                 
                 <div class="review-title">
-                    <h3>Best decision of my life</h3>
+                    <h3>Best climb of my life</h3>
                 </div>
                 
                 <div class="star-rating">
@@ -1349,10 +1349,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 <div class="review-content">
                     <div class="review-excerpt">
-                        <p>Choosing One Kilimanjaro  for my Kilimanjaro climb was the best decision I could have made. The guides were not only experts but also became friends. They celebrated every milestone with us and made sure we had the energy...</p>
+                        <p>Choosing One Kilimanjaro for my climb was absolutely the right decision. The guides were skilled, friendly, and encouraging, and they celebrated every small achievement with us. Their support helped us keep strong energy throughout the entire mountain journey...</p>
                     </div>
                     <div class="review-full">
-                        <p>Choosing One Kilimanjaro  for my Kilimanjaro climb was the best decision I could have made. The guides were not only experts but also became friends. They celebrated every milestone with us and made sure we had the energy and motivation to continue. The "pole pole" (slowly slowly) approach really works! I never felt rushed or pressured, and the gradual acclimatization made summit day achievable. The views from each camp were breathtaking, and waking up to hot coffee delivered to our tents was a luxury I'll always remember. The team's commitment to environmental conservation was also impressive - they practiced Leave No Trace principles throughout the climb. This experience has given me confidence to take on more challenges in life. Thank you, Altezza!</p>
+                        <p>Choosing One Kilimanjaro for my climb was absolutely the right decision. The guides were skilled, friendly, and encouraging, and they celebrated every small achievement with us. Their support helped us keep strong energy throughout the entire mountain journey. The slow pace was perfect for acclimatization, and I never felt rushed or ignored. Waking up to hot drinks, clean camp, and smiling crew members made each morning special. I also respected how carefully the team protected the environment and kept the mountain clean. This climb gave me confidence, gratitude, and memories I will carry for life. Thank you, One Kilimanjaro, for an outstanding adventure. I felt supported, respected, and fully prepared from the first briefing until the final goodbye in Moshi town.</p>
                     </div>
                 </div>
                 
