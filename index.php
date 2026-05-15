@@ -38,7 +38,7 @@
         <div class="container">
             <div class="section-title">
                 <span class="subtitle">Discover Our Story</span>
-                <h2>About One mimi mwenyewe  </h2>
+                <h2>About One Kilimanjaro  </h2>
             </div>
             
             
