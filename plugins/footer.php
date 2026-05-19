@@ -1,60 +1,57 @@
- <div class="gtranslate_wrapper"></div>
+<div class="gtranslate_wrapper"></div>
 <script>window.gtranslateSettings = {"default_language":"en","languages":["en","fr","de","it","es","zh-CN"],"wrapper_selector":".gtranslate_wrapper","horizontal_position":"left","vertical_position":"bottom"}</script>
 
- <footer id="contact">
-        <div class="container">
-            <div class="footer-grid">
-                <div class="footer-col">
-                    <h3>About One Kilimanjaro  </h3>
-                    <p>We are Kilimanjaro's premier trekking operator, offering unforgettable climbing experiences with a commitment to safety and sustainable tourism.</p>
-                    <div class="social-links">
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                    </div>
-                </div>
-                
-                <div class="footer-col">
-                    <h3>Quick Links</h3>
-                    <ul class="footer-links">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">Climbing Routes</a></li>
-                        <li><a href="#">Trekking Packages</a></li>
-                        <li><a href="#">Preparation Guide</a></li>
-                        <li><a href="#">Contact Us</a></li>
-                    </ul>
-                </div>
-                
-                <div class="footer-col">
-                    <h3>Climbing Routes</h3>
-                    <ul class="footer-links">
-                        <li><a href="#">Marangu Route</a></li>
-                        <li><a href="#">Machame Route</a></li>
-                        <li><a href="#">Lemosho Route</a></li>
-                        <li><a href="#">Rongai Route</a></li>
-                        <li><a href="#">Northern Circuit</a></li>
-                    </ul>
-                </div>
-
-                
-                
-                <div class="footer-col">
-                    <h3>Contact Info</h3>
-                    <p><i class="fas fa-map-marker-alt"></i> Kilimanjaro Street, Moshi, Tanzania</p>
-                    <p><i class="fas fa-phone"></i> +255 764 090 595</p>
-                    <p><i class="fas fa-envelope"></i> info@onekilimanjaro.com</p>
-                    <p><i class="fas fa-clock"></i> Mon-Fri: 8AM - 5PM</p>
+<footer id="contact">
+    <div class="container">
+        <div class="footer-grid">
+            <div class="footer-col">
+                <h3>About One Kilimanjaro</h3>
+                <p>We are Kilimanjaro's premier trekking operator, offering unforgettable climbing experiences with a commitment to safety and sustainable tourism.</p>
+                <div class="social-links">
+                    <a href="https://www.facebook.com/" target="_blank" rel="noopener"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.twitter.com/" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.instagram.com/" target="_blank" rel="noopener"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
                 </div>
             </div>
+            
+            <div class="footer-col">
+                <h3>Quick Links</h3>
+                <ul class="footer-links">
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="kilimanjaro-route.php">Trekking Packages</a></li>
+                    <li><a href="kili-guide.php">Preparation Guide</a></li>
+                    <li><a href="contact-us.php">Contact Us</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-col">
+                <h3>Climbing Routes</h3>
+                <ul class="footer-links">
+                    <li><a href="marangu-route-kilimanjaro.php">Marangu Route</a></li>
+                    <li><a href="machame-route.php">Machame Route</a></li>
+                    <li><a href="lemosho-route.php">Lemosho Route</a></li>
+                    <li><a href="rongai-route.php">Rongai Route</a></li>
+                    <li><a href="northern-circuit-route.php">Northern Circuit</a></li>
+                    <li><a href="umbwe-route.php">Umbwe Route</a></li>
 
-            
-            
-            <div class="footer-bottom">
-                <p>&copy; 2026 One Kilimanjaro  . All Rights Reserved. | <a href="#">Privacy Policy</a> | <a href="terms-and-condition.php">Terms of Service</a></p>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Contact Info</h3>
+                <p><i class="fas fa-map-marker-alt"></i> <a href="https://www.google.com/maps/search/Kilimanjaro+Street,+Moshi,+Tanzania" target="_blank" rel="noopener">Kilimanjaro Street, Moshi, Tanzania</a></p>
+                <p><i class="fas fa-phone"></i> <a href="tel:+255764090595">+255 764 090 595</a></p>
+                <p><i class="fas fa-envelope"></i> <a href="mailto:info@onekilimanjaro.com">info@onekilimanjaro.com</a></p>
+                <p><i class="fas fa-clock"></i> Mon-Fri: 8AM - 5PM</p>
             </div>
         </div>
-    </footer>
+
+        <div class="footer-bottom">
+            <p>&copy; 2026 One Kilimanjaro. All Rights Reserved. | <a href="terms-and-condition.php">Privacy Policy</a> | <a href="terms-and-condition.php">Terms of Service</a></p>
+        </div>
+    </div>
+</footer>
 
     <style>
        

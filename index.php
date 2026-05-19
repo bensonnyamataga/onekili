@@ -1871,15 +1871,16 @@ document.addEventListener('DOMContentLoaded', function() {
             <!-- Blog Article 1 -->
             <article class="blog-card">
                 <div class="blog-image">
-                    <img src="img/kilimanjaro-training.jpg" alt="Kilimanjaro Training">
-                    <div class="blog-overlay">
-                        <div class="blog-content-overlay">
-                            <h3 class="blog-title">Complete Training Guide: Preparing Your Body for Kilimanjaro</h3>
+                    <a href="kilimanjaro-training-guide.php">
+                        <img src="img/kilimanjaro-training.jpg" alt="Kilimanjaro Training">
+                        <div class="blog-overlay">
+                            <div class="blog-content-overlay">
+                                <h3 class="blog-title">Complete Training Guide: Preparing Your Body for Kilimanjaro</h3>
+                            </div>
                         </div>
-                    </div>
+                    </a>
                 </div>
                 <div class="blog-excerpt">
-                    
                     <a href="kilimanjaro-training-guide.php" class="blog-link">Read More <i class="fas fa-arrow-right"></i></a>
                 </div>
             </article>
@@ -1887,12 +1888,14 @@ document.addEventListener('DOMContentLoaded', function() {
             <!-- Blog Article 2 -->
             <article class="blog-card">
                 <div class="blog-image">
-                    <img src="img/Mountain Sickness.jpg" alt="Altitude Sickness Prevention">
-                    <div class="blog-overlay">
-                        <div class="blog-content-overlay">
-                            <h3 class="blog-title">Altitude Sickness: Prevention and Management on Kilimanjaro</h3>
+                    <a href="kilimanjaro-altitude-sickness.php">
+                        <img src="img/Mountain Sickness.jpg" alt="Altitude Sickness Prevention">
+                        <div class="blog-overlay">
+                            <div class="blog-content-overlay">
+                                <h3 class="blog-title">Altitude Sickness: Prevention and Management on Kilimanjaro</h3>
+                            </div>
                         </div>
-                    </div>
+                    </a>
                 </div>
                 <div class="blog-excerpt">
                     <a href="kilimanjaro-altitude-sickness.php" class="blog-link">Read More <i class="fas fa-arrow-right"></i></a>
@@ -1902,12 +1905,14 @@ document.addEventListener('DOMContentLoaded', function() {
             <!-- Blog Article 3 -->
             <article class="blog-card">
                 <div class="blog-image">
-                    <img src="img/packing-list.jpg" alt="Kilimanjaro Packing List">
-                    <div class="blog-overlay">
-                        <div class="blog-content-overlay">
-                            <h3 class="blog-title">Ultimate Kilimanjaro Packing List: Essential Gear for Summit Success</h3>
+                    <a href="kilimanjaro-packing-list.php">
+                        <img src="img/packing-list.jpg" alt="Kilimanjaro Packing List">
+                        <div class="blog-overlay">
+                            <div class="blog-content-overlay">
+                                <h3 class="blog-title">Ultimate Kilimanjaro Packing List: Essential Gear for Summit Success</h3>
+                            </div>
                         </div>
-                    </div>
+                    </a>
                 </div>
                 <div class="blog-excerpt">
                     <a href="kilimanjaro-packing-list.php" class="blog-link">Read More <i class="fas fa-arrow-right"></i></a>
@@ -1917,12 +1922,14 @@ document.addEventListener('DOMContentLoaded', function() {
             <!-- Blog Article 4 -->
             <article class="blog-card">
                 <div class="blog-image">
-                    <img src="img/climbing-kilimanjaro.jpg" alt="Kilimanjaro Weather Guide">
-                    <div class="blog-overlay">
-                        <div class="blog-content-overlay">
-                            <h3 class="blog-title">Kilimanjaro Weather Guide: Best Times to Climb and What to Expect</h3>
+                    <a href="kilimanjaro-weather-best-time-to-climb.php">
+                        <img src="img/climbing-kilimanjaro.jpg" alt="Kilimanjaro Weather Guide">
+                        <div class="blog-overlay">
+                            <div class="blog-content-overlay">
+                                <h3 class="blog-title">Kilimanjaro Weather Guide: Best Times to Climb and What to Expect</h3>
+                            </div>
                         </div>
-                    </div>
+                    </a>
                 </div>
                 <div class="blog-excerpt">
                     <a href="kilimanjaro-weather-best-time-to-climb.php" class="blog-link">Read More <i class="fas fa-arrow-right"></i></a>
@@ -1932,12 +1939,14 @@ document.addEventListener('DOMContentLoaded', function() {
             <!-- Blog Article 5 -->
             <article class="blog-card">
                 <div class="blog-image">
-                    <img src="img/travel-assuarance.jpg" alt="Summit Success Story">
-                    <div class="blog-overlay">
-                        <div class="blog-content-overlay">
-                            <h3 class="blog-title">Why Travel Insurance is Essential for Your Kilimanjaro Climb </h3>
+                    <a href="travel-insurance-importance.php">
+                        <img src="img/travel-assuarance.jpg" alt="Kilimanjaro Travel Insurance">
+                        <div class="blog-overlay">
+                            <div class="blog-content-overlay">
+                                <h3 class="blog-title">Why Travel Insurance is Essential for Your Kilimanjaro Climb</h3>
+                            </div>
                         </div>
-                    </div>
+                    </a>
                 </div>
                 <div class="blog-excerpt">
                     <a href="travel-insurance-importance.php" class="blog-link">Read More <i class="fas fa-arrow-right"></i></a>
@@ -1947,12 +1956,14 @@ document.addEventListener('DOMContentLoaded', function() {
             <!-- Blog Article 6 -->
             <article class="blog-card">
                 <div class="blog-image">
-                    <img src="img/environment.jpg" alt="Kilimanjaro Environment">
-                    <div class="blog-overlay">
-                        <div class="blog-content-overlay">
-                            <h3 class="blog-title">Preserving Kilimanjaro: Environmental Conservation and Responsible Climbing</h3>
+                    <a href="environmental-conservation-kilimanjaro.php">
+                        <img src="img/environment.jpg" alt="Kilimanjaro Environment">
+                        <div class="blog-overlay">
+                            <div class="blog-content-overlay">
+                                <h3 class="blog-title">Preserving Kilimanjaro: Environmental Conservation and Responsible Climbing</h3>
+                            </div>
                         </div>
-                    </div>
+                    </a>
                 </div>
                 <div class="blog-excerpt">
                     <a href="environmental-conservation-kilimanjaro.php" class="blog-link">Read More <i class="fas fa-arrow-right"></i></a>
@@ -1961,7 +1972,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </div>
         
         <div class="blog-cta">
-            <a href="#" class="btn btn-primary">View All Articles</a>
+            <a href="article.php" class="btn btn-primary">View All Articles</a>
         </div>
     </div>
 </section>
